@@ -1,4 +1,4 @@
-/* 24 两两较远链表中的节点 双指针*/
+/* 24 两两交换链表中的节点 双指针*/
 #include <stdio.h>
 #include <stdlib.h>
 
