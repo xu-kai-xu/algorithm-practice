@@ -23,7 +23,7 @@ def removeNthFromEnd(head, n):
 
     slow.next = slow.next.next
     return dummy.next
-#---------------------------------
+# ---------------------------------
 # test
 def traverse_linked_list(head):
     test = head
